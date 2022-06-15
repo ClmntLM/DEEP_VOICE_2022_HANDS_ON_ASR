@@ -1,0 +1,1001 @@
+,wav,txt,sentence
+0,F15_a3_s001_v04.wav,oui,s001
+1,M13_a1_s001_v01.wav,oui,s001
+2,F01_a1_s001_v03.wav,oui,s001
+3,M13_a2_s001_v03.wav,oui,s001
+4,M17_a2_s001_v01.wav,oui,s001
+5,F05_a2_s001_v02.wav,oui,s001
+6,F05_a1_s001_v01.wav,oui,s001
+7,F08_a2_s001_v04.wav,oui,s001
+8,F03_a3_s001_v03.wav,oui,s001
+9,F18_a1_s001_v04.wav,oui,s001
+10,M16_a2_s002_v02.wav,non,s002
+11,M11_a1_s002_v05.wav,non,s002
+12,F02_a2_s002_v03.wav,non,s002
+13,F01_a3_s002_v04.wav,non,s002
+14,F08_a1_s002_v03.wav,non,s002
+15,F10_a2_s002_v01.wav,non,s002
+16,M09_a3_s002_v04.wav,non,s002
+17,M19_a2_s002_v04.wav,non,s002
+18,F20_a4_s002_v02.wav,non,s002
+19,F18_a3_s002_v04.wav,non,s002
+20,F15_a2_s003_v03.wav,certes,s003
+21,M09_a4_s003_v01.wav,certes,s003
+22,F15_a3_s003_v03.wav,certes,s003
+23,F01_a3_s003_v05.wav,certes,s003
+24,M11_a3_s003_v04.wav,certes,s003
+25,F03_a2_s003_v05.wav,certes,s003
+26,F03_a3_s003_v01.wav,certes,s003
+27,M17_a4_s003_v03.wav,certes,s003
+28,M16_a3_s003_v01.wav,certes,s003
+29,M17_a3_s003_v04.wav,certes,s003
+30,M09_a4_s004_v01.wav,bien-sûr,s004
+31,F10_a4_s004_v02.wav,bien-sûr,s004
+32,M19_a3_s004_v08.wav,bien-sûr,s004
+33,M12_a3_s004_v02.wav,bien-sûr,s004
+34,M09_a3_s004_v04.wav,bien-sûr,s004
+35,F05_a2_s004_v01.wav,bien-sûr,s004
+36,F02_a1_s004_v02.wav,bien-sûr,s004
+37,M19_a3_s004_v04.wav,bien-sûr,s004
+38,F18_a4_s004_v02.wav,bien-sûr,s004
+39,F01_a4_s004_v01.wav,bien-sûr,s004
+40,F15_a4_s005_v01.wav,salut,s005
+41,F08_a3_s005_v04.wav,salut,s005
+42,M12_a3_s005_v05.wav,salut,s005
+43,F08_a1_s005_v01.wav,salut,s005
+44,F06_a3_s005_v04.wav,salut,s005
+45,F15_a1_s005_v01.wav,salut,s005
+46,M17_a1_s005_v05.wav,salut,s005
+47,F08_a4_s005_v01.wav,salut,s005
+48,F06_a3_s005_v01.wav,salut,s005
+49,M04_a1_s005_v01.wav,salut,s005
+50,M17_a1_s006_v01.wav,bonjour,s006
+51,F05_a3_s006_v05.wav,bonjour,s006
+52,F06_a1_s006_v04.wav,bonjour,s006
+53,F01_a1_s006_v01.wav,bonjour,s006
+54,F14_a1_s006_v01.wav,bonjour,s006
+55,F08_a1_s006_v04.wav,bonjour,s006
+56,F06_a2_s006_v03.wav,bonjour,s006
+57,M12_a3_s006_v01.wav,bonjour,s006
+58,M07_a4_s006_v03.wav,bonjour,s006
+59,M07_a2_s006_v01.wav,bonjour,s006
+60,M19_a2_s007_v03.wav,bonsoir,s007
+61,M19_a1_s007_v04.wav,bonsoir,s007
+62,M11_a3_s007_v04.wav,bonsoir,s007
+63,M19_a1_s007_v06.wav,bonsoir,s007
+64,M13_a1_s007_v03.wav,bonsoir,s007
+65,M16_a4_s007_v03.wav,bonsoir,s007
+66,M11_a1_s007_v01.wav,bonsoir,s007
+67,F01_a1_s007_v01.wav,bonsoir,s007
+68,M04_a3_s007_v03.wav,bonsoir,s007
+69,M13_a4_s007_v04.wav,bonsoir,s007
+70,M09_a4_s008_v02.wav,tant pis,s008
+71,F14_a1_s008_v03.wav,tant pis,s008
+72,M16_a3_s008_v01.wav,tant pis,s008
+73,F15_a4_s008_v01.wav,tant pis,s008
+74,M17_a1_s008_v04.wav,tant pis,s008
+75,F10_a1_s008_v01.wav,tant pis,s008
+76,F03_a4_s008_v01.wav,tant pis,s008
+77,M07_a1_s008_v04.wav,tant pis,s008
+78,F02_a2_s008_v03.wav,tant pis,s008
+79,F06_a2_s008_v04.wav,tant pis,s008
+80,F08_a3_s009_v03.wav,très bien,s009
+81,M19_a4_s009_v03.wav,très bien,s009
+82,F01_a4_s009_v03.wav,très bien,s009
+83,M09_a2_s009_v02.wav,très bien,s009
+84,M19_a1_s009_v06.wav,très bien,s009
+85,M04_a2_s009_v02.wav,très bien,s009
+86,F08_a3_s009_v05.wav,très bien,s009
+87,F18_a4_s009_v02.wav,très bien,s009
+88,M04_a1_s009_v02.wav,très bien,s009
+89,M13_a3_s009_v03.wav,très bien,s009
+90,M16_a2_s010_v01.wav,c’est vrai,s010
+91,M07_a4_s010_v05.wav,c’est vrai,s010
+92,F10_a3_s010_v02.wav,c’est vrai,s010
+93,F14_a1_s010_v02.wav,c’est vrai,s010
+94,M11_a4_s010_v03.wav,c’est vrai,s010
+95,M11_a3_s010_v02.wav,c’est vrai,s010
+96,M12_a3_s010_v03.wav,c’est vrai,s010
+97,F15_a4_s010_v01.wav,c’est vrai,s010
+98,F18_a1_s010_v04.wav,c’est vrai,s010
+99,F18_a3_s010_v02.wav,c’est vrai,s010
+100,M11_a4_s011_v01.wav,par ici,s011
+101,F14_a2_s011_v06.wav,par ici,s011
+102,M16_a4_s011_v04.wav,par ici,s011
+103,M19_a2_s011_v02.wav,par ici,s011
+104,F14_a1_s011_v02.wav,par ici,s011
+105,F05_a1_s011_v06.wav,par ici,s011
+106,M07_a4_s011_v02.wav,par ici,s011
+107,F02_a4_s011_v03.wav,par ici,s011
+108,M17_a2_s011_v02.wav,par ici,s011
+109,F01_a3_s011_v01.wav,par ici,s011
+110,M17_a1_s012_v06.wav,au revoir,s012
+111,F03_a4_s012_v05.wav,au revoir,s012
+112,F10_a4_s012_v04.wav,au revoir,s012
+113,M09_a4_s012_v02.wav,au revoir,s012
+114,M07_a2_s012_v02.wav,au revoir,s012
+115,F14_a2_s012_v07.wav,au revoir,s012
+116,M04_a1_s012_v01.wav,au revoir,s012
+117,M19_a1_s012_v04.wav,au revoir,s012
+118,F05_a1_s012_v03.wav,au revoir,s012
+119,M17_a1_s012_v03.wav,au revoir,s012
+120,F03_a2_s013_v04.wav,à demain,s013
+121,M19_a1_s013_v06.wav,à demain,s013
+122,M19_a1_s013_v03.wav,à demain,s013
+123,M12_a2_s013_v03.wav,à demain,s013
+124,M09_a4_s013_v01.wav,à demain,s013
+125,F08_a2_s013_v02.wav,à demain,s013
+126,M17_a4_s013_v02.wav,à demain,s013
+127,M13_a4_s013_v04.wav,à demain,s013
+128,F03_a4_s013_v04.wav,à demain,s013
+129,M16_a1_s013_v02.wav,à demain,s013
+130,F20_a3_s014_v02.wav,impossible,s014
+131,M19_a4_s014_v01.wav,impossible,s014
+132,F08_a1_s014_v03.wav,impossible,s014
+133,M04_a1_s014_v02.wav,impossible,s014
+134,F06_a2_s014_v05.wav,impossible,s014
+135,F01_a2_s014_v02.wav,impossible,s014
+136,M17_a1_s014_v04.wav,impossible,s014
+137,F10_a2_s014_v01.wav,impossible,s014
+138,F10_a2_s014_v02.wav,impossible,s014
+139,M07_a3_s014_v02.wav,impossible,s014
+140,F03_a4_s015_v02.wav,volontiers,s015
+141,F20_a1_s015_v03.wav,volontiers,s015
+142,M16_a3_s015_v01.wav,volontiers,s015
+143,F20_a4_s015_v03.wav,volontiers,s015
+144,M12_a1_s015_v02.wav,volontiers,s015
+145,M17_a1_s015_v04.wav,volontiers,s015
+146,F10_a3_s015_v03.wav,volontiers,s015
+147,F15_a1_s015_v05.wav,volontiers,s015
+148,F15_a1_s015_v02.wav,volontiers,s015
+149,F06_a4_s015_v04.wav,volontiers,s015
+150,F01_a2_s016_v02.wav,j'ai toussé,s016
+151,F18_a3_s016_v02.wav,j'ai toussé,s016
+152,M19_a2_s016_v01.wav,j'ai toussé,s016
+153,F01_a3_s016_v05.wav,j'ai toussé,s016
+154,F01_a1_s016_v04.wav,j'ai toussé,s016
+155,F03_a1_s016_v01.wav,j'ai toussé,s016
+156,F20_a1_s016_v03.wav,j'ai toussé,s016
+157,M07_a4_s016_v04.wav,j'ai toussé,s016
+158,F08_a3_s016_v02.wav,j'ai toussé,s016
+159,M16_a3_s016_v03.wav,j'ai toussé,s016
+160,F10_a1_s017_v01.wav,peu importe,s017
+161,M19_a3_s017_v08.wav,peu importe,s017
+162,F15_a1_s017_v02.wav,peu importe,s017
+163,F10_a1_s017_v04.wav,peu importe,s017
+164,F10_a3_s017_v05.wav,peu importe,s017
+165,F03_a3_s017_v01.wav,peu importe,s017
+166,M19_a3_s017_v05.wav,peu importe,s017
+167,F15_a1_s017_v01.wav,peu importe,s017
+168,F03_a1_s017_v04.wav,peu importe,s017
+169,M04_a2_s017_v01.wav,peu importe,s017
+170,F18_a4_s018_v04.wav,nous partons,s018
+171,F02_a4_s018_v03.wav,nous partons,s018
+172,M07_a4_s018_v04.wav,nous partons,s018
+173,F20_a4_s018_v04.wav,nous partons,s018
+174,F20_a4_s018_v01.wav,nous partons,s018
+175,M19_a2_s018_v01.wav,nous partons,s018
+176,F02_a2_s018_v01.wav,nous partons,s018
+177,F06_a4_s018_v03.wav,nous partons,s018
+178,F03_a2_s018_v02.wav,nous partons,s018
+179,M16_a3_s018_v03.wav,nous partons,s018
+180,F03_a1_s019_v05.wav,bonne journée,s019
+181,F06_a2_s019_v01.wav,bonne journée,s019
+182,M12_a2_s019_v02.wav,bonne journée,s019
+183,F14_a1_s019_v02.wav,bonne journée,s019
+184,F05_a2_s019_v01.wav,bonne journée,s019
+185,F10_a3_s019_v04.wav,bonne journée,s019
+186,F06_a2_s019_v02.wav,bonne journée,s019
+187,M11_a3_s019_v01.wav,bonne journée,s019
+188,F05_a2_s019_v02.wav,bonne journée,s019
+189,F20_a1_s019_v05.wav,bonne journée,s019
+190,F05_a2_s020_v03.wav,bonsoir jeanne,s020
+191,F08_a1_s020_v04.wav,bonsoir jeanne,s020
+192,F06_a4_s020_v03.wav,bonsoir jeanne,s020
+193,F14_a2_s020_v04.wav,bonsoir jeanne,s020
+194,F08_a4_s020_v05.wav,bonsoir jeanne,s020
+195,F08_a2_s020_v04.wav,bonsoir jeanne,s020
+196,M11_a3_s020_v03.wav,bonsoir jeanne,s020
+197,M11_a2_s020_v04.wav,bonsoir jeanne,s020
+198,F03_a4_s020_v01.wav,bonsoir jeanne,s020
+199,F10_a4_s020_v07.wav,bonsoir jeanne,s020
+200,M04_a4_s021_v03.wav,faites leur signe,s021
+201,M09_a4_s021_v01.wav,faites leur signe,s021
+202,F01_a4_s021_v01.wav,faites leur signe,s021
+203,F14_a3_s021_v02.wav,faites leur signe,s021
+204,M04_a3_s021_v02.wav,faites leur signe,s021
+205,F03_a1_s021_v02.wav,faites leur signe,s021
+206,M04_a4_s021_v01.wav,faites leur signe,s021
+207,F20_a1_s021_v01.wav,faites leur signe,s021
+208,F02_a4_s021_v04.wav,faites leur signe,s021
+209,F10_a4_s021_v04.wav,faites leur signe,s021
+210,M12_a3_s022_v04.wav,asseyez vous,s022
+211,F05_a4_s022_v02.wav,asseyez vous,s022
+212,F20_a2_s022_v04.wav,asseyez vous,s022
+213,F15_a3_s022_v02.wav,asseyez vous,s022
+214,M16_a4_s022_v03.wav,asseyez vous,s022
+215,M13_a2_s022_v04.wav,asseyez vous,s022
+216,F01_a2_s022_v02.wav,asseyez vous,s022
+217,F06_a3_s022_v03.wav,asseyez vous,s022
+218,M13_a1_s022_v02.wav,asseyez vous,s022
+219,M17_a4_s022_v05.wav,asseyez vous,s022
+220,M19_a4_s023_v01.wav,évidemment,s023
+221,M16_a2_s023_v03.wav,évidemment,s023
+222,F06_a1_s023_v04.wav,évidemment,s023
+223,F14_a4_s023_v01.wav,évidemment,s023
+224,M12_a3_s023_v03.wav,évidemment,s023
+225,M07_a4_s023_v02.wav,évidemment,s023
+226,M12_a4_s023_v04.wav,évidemment,s023
+227,M12_a3_s023_v02.wav,évidemment,s023
+228,M09_a2_s023_v03.wav,évidemment,s023
+229,M04_a1_s023_v03.wav,évidemment,s023
+230,F10_a4_s024_v04.wav,assurément,s024
+231,F03_a1_s024_v03.wav,assurément,s024
+232,M12_a2_s024_v04.wav,assurément,s024
+233,F14_a4_s024_v03.wav,assurément,s024
+234,F02_a4_s024_v04.wav,assurément,s024
+235,F14_a3_s024_v01.wav,assurément,s024
+236,M17_a1_s024_v02.wav,assurément,s024
+237,F10_a2_s024_v01.wav,assurément,s024
+238,F20_a1_s024_v04.wav,assurément,s024
+239,F18_a3_s024_v04.wav,assurément,s024
+240,M19_a4_s025_v06.wav,il est midi,s025
+241,M04_a3_s025_v01.wav,il est midi,s025
+242,F08_a1_s025_v02.wav,il est midi,s025
+243,F10_a2_s025_v05.wav,il est midi,s025
+244,F03_a1_s025_v03.wav,il est midi,s025
+245,M19_a2_s025_v01.wav,il est midi,s025
+246,M11_a4_s025_v03.wav,il est midi,s025
+247,F01_a3_s025_v02.wav,il est midi,s025
+248,M09_a3_s025_v03.wav,il est midi,s025
+249,F03_a4_s025_v01.wav,il est midi,s025
+250,F03_a1_s026_v03.wav,salut marie,s026
+251,F02_a4_s026_v03.wav,salut marie,s026
+252,M07_a1_s026_v02.wav,salut marie,s026
+253,M11_a1_s026_v03.wav,salut marie,s026
+254,M07_a2_s026_v06.wav,salut marie,s026
+255,M11_a4_s026_v03.wav,salut marie,s026
+256,F18_a2_s026_v02.wav,salut marie,s026
+257,F05_a3_s026_v02.wav,salut marie,s026
+258,F18_a2_s026_v01.wav,salut marie,s026
+259,F14_a3_s026_v02.wav,salut marie,s026
+260,F15_a1_s027_v03.wav,tu as marché,s027
+261,F20_a1_s027_v03.wav,tu as marché,s027
+262,F20_a2_s027_v03.wav,tu as marché,s027
+263,F10_a3_s027_v03.wav,tu as marché,s027
+264,M13_a1_s027_v05.wav,tu as marché,s027
+265,M04_a1_s027_v02.wav,tu as marché,s027
+266,M07_a3_s027_v01.wav,tu as marché,s027
+267,F01_a3_s027_v05.wav,tu as marché,s027
+268,F02_a1_s027_v01.wav,tu as marché,s027
+269,F05_a3_s027_v01.wav,tu as marché,s027
+270,M17_a2_s028_v02.wav,au revoir yann,s028
+271,F03_a2_s028_v04.wav,au revoir yann,s028
+272,F05_a3_s028_v03.wav,au revoir yann,s028
+273,M12_a1_s028_v03.wav,au revoir yann,s028
+274,F18_a4_s028_v02.wav,au revoir yann,s028
+275,M11_a2_s028_v03.wav,au revoir yann,s028
+276,F08_a3_s028_v01.wav,au revoir yann,s028
+277,F20_a4_s028_v05.wav,au revoir yann,s028
+278,M16_a2_s028_v01.wav,au revoir yann,s028
+279,M09_a4_s028_v04.wav,au revoir yann,s028
+280,F05_a2_s029_v02.wav,bonjour marie,s029
+281,M12_a4_s029_v01.wav,bonjour marie,s029
+282,F02_a3_s029_v02.wav,bonjour marie,s029
+283,M04_a2_s029_v04.wav,bonjour marie,s029
+284,F20_a3_s029_v02.wav,bonjour marie,s029
+285,M17_a3_s029_v02.wav,bonjour marie,s029
+286,M09_a3_s029_v05.wav,bonjour marie,s029
+287,F14_a2_s029_v03.wav,bonjour marie,s029
+288,F01_a4_s029_v06.wav,bonjour marie,s029
+289,M19_a3_s029_v01.wav,bonjour marie,s029
+290,M17_a1_s030_v02.wav,ta soeur a bu,s030
+291,F10_a2_s030_v01.wav,ta soeur a bu,s030
+292,F03_a2_s030_v02.wav,ta soeur a bu,s030
+293,M12_a2_s030_v03.wav,ta soeur a bu,s030
+294,F20_a4_s030_v01.wav,ta soeur a bu,s030
+295,M13_a2_s030_v01.wav,ta soeur a bu,s030
+296,F05_a3_s030_v02.wav,ta soeur a bu,s030
+297,F14_a1_s030_v03.wav,ta soeur a bu,s030
+298,M16_a4_s030_v01.wav,ta soeur a bu,s030
+299,F08_a3_s030_v04.wav,ta soeur a bu,s030
+300,F05_a4_s031_v03.wav,à demain paul,s031
+301,M19_a1_s031_v04.wav,à demain paul,s031
+302,F20_a1_s031_v04.wav,à demain paul,s031
+303,F15_a3_s031_v03.wav,à demain paul,s031
+304,M11_a2_s031_v02.wav,à demain paul,s031
+305,F14_a1_s031_v01.wav,à demain paul,s031
+306,M17_a2_s031_v03.wav,à demain paul,s031
+307,F08_a3_s031_v04.wav,à demain paul,s031
+308,F08_a1_s031_v04.wav,à demain paul,s031
+309,F05_a4_s031_v04.wav,à demain paul,s031
+310,F15_a2_s032_v02.wav,il faisait bon,s032
+311,F02_a2_s032_v02.wav,il faisait bon,s032
+312,F18_a4_s032_v01.wav,il faisait bon,s032
+313,F06_a3_s032_v02.wav,il faisait bon,s032
+314,M12_a1_s032_v01.wav,il faisait bon,s032
+315,M19_a2_s032_v05.wav,il faisait bon,s032
+316,M11_a4_s032_v04.wav,il faisait bon,s032
+317,M09_a4_s032_v04.wav,il faisait bon,s032
+318,M12_a1_s032_v02.wav,il faisait bon,s032
+319,M11_a1_s032_v01.wav,il faisait bon,s032
+320,M04_a3_s033_v03.wav,je pars demain,s033
+321,F18_a4_s033_v01.wav,je pars demain,s033
+322,F10_a2_s033_v03.wav,je pars demain,s033
+323,F15_a3_s033_v05.wav,je pars demain,s033
+324,F18_a4_s033_v04.wav,je pars demain,s033
+325,F14_a3_s033_v01.wav,je pars demain,s033
+326,F05_a2_s033_v02.wav,je pars demain,s033
+327,M04_a1_s033_v02.wav,je pars demain,s033
+328,F02_a4_s033_v02.wav,je pars demain,s033
+329,M19_a3_s033_v04.wav,je pars demain,s033
+330,M19_a1_s034_v01.wav,par ici jeanne,s034
+331,M09_a3_s034_v03.wav,par ici jeanne,s034
+332,F01_a1_s034_v01.wav,par ici jeanne,s034
+333,M07_a2_s034_v02.wav,par ici jeanne,s034
+334,F03_a1_s034_v03.wav,par ici jeanne,s034
+335,F01_a1_s034_v03.wav,par ici jeanne,s034
+336,F15_a2_s034_v03.wav,par ici jeanne,s034
+337,M12_a1_s034_v01.wav,par ici jeanne,s034
+338,F18_a3_s034_v02.wav,par ici jeanne,s034
+339,F05_a2_s034_v02.wav,par ici jeanne,s034
+340,M12_a4_s035_v04.wav,je pars ce soir,s035
+341,M19_a3_s035_v01.wav,je pars ce soir,s035
+342,M04_a3_s035_v01.wav,je pars ce soir,s035
+343,F03_a1_s035_v01.wav,je pars ce soir,s035
+344,F18_a3_s035_v01.wav,je pars ce soir,s035
+345,M07_a4_s035_v05.wav,je pars ce soir,s035
+346,F03_a3_s035_v05.wav,je pars ce soir,s035
+347,M04_a2_s035_v02.wav,je pars ce soir,s035
+348,F10_a3_s035_v06.wav,je pars ce soir,s035
+349,F14_a2_s035_v02.wav,je pars ce soir,s035
+350,F05_a1_s036_v03.wav,elle a pris peur,s036
+351,M11_a2_s036_v05.wav,elle a pris peur,s036
+352,M17_a3_s036_v03.wav,elle a pris peur,s036
+353,F05_a4_s036_v03.wav,elle a pris peur,s036
+354,M19_a4_s036_v01.wav,elle a pris peur,s036
+355,F01_a4_s036_v04.wav,elle a pris peur,s036
+356,F18_a1_s036_v02.wav,elle a pris peur,s036
+357,F05_a1_s036_v04.wav,elle a pris peur,s036
+358,F03_a2_s036_v03.wav,elle a pris peur,s036
+359,M09_a2_s036_v05.wav,elle a pris peur,s036
+360,M12_a2_s037_v01.wav,sans aucun doute,s037
+361,F15_a4_s037_v01.wav,sans aucun doute,s037
+362,M11_a1_s037_v02.wav,sans aucun doute,s037
+363,M13_a3_s037_v02.wav,sans aucun doute,s037
+364,M16_a4_s037_v02.wav,sans aucun doute,s037
+365,F20_a2_s037_v04.wav,sans aucun doute,s037
+366,F08_a3_s037_v02.wav,sans aucun doute,s037
+367,M11_a3_s037_v01.wav,sans aucun doute,s037
+368,F06_a2_s037_v02.wav,sans aucun doute,s037
+369,M19_a4_s037_v04.wav,sans aucun doute,s037
+370,F01_a3_s038_v02.wav,je prends le temps,s038
+371,M19_a1_s038_v04.wav,je prends le temps,s038
+372,F15_a1_s038_v01.wav,je prends le temps,s038
+373,F10_a4_s038_v01.wav,je prends le temps,s038
+374,F06_a4_s038_v04.wav,je prends le temps,s038
+375,F06_a2_s038_v06.wav,je prends le temps,s038
+376,F05_a4_s038_v01.wav,je prends le temps,s038
+377,F01_a4_s038_v01.wav,je prends le temps,s038
+378,F05_a3_s038_v04.wav,je prends le temps,s038
+379,M19_a1_s038_v03.wav,je prends le temps,s038
+380,F06_a2_s039_v02.wav,veuillez me croire,s039
+381,M07_a3_s039_v04.wav,veuillez me croire,s039
+382,F15_a4_s039_v04.wav,veuillez me croire,s039
+383,M09_a4_s039_v03.wav,veuillez me croire,s039
+384,F10_a4_s039_v02.wav,veuillez me croire,s039
+385,F03_a2_s039_v01.wav,veuillez me croire,s039
+386,F05_a3_s039_v02.wav,veuillez me croire,s039
+387,M16_a4_s039_v03.wav,veuillez me croire,s039
+388,F10_a1_s039_v03.wav,veuillez me croire,s039
+389,M09_a3_s039_v03.wav,veuillez me croire,s039
+390,M16_a3_s040_v01.wav,donc fais moi signe,s040
+391,F20_a3_s040_v02.wav,donc fais moi signe,s040
+392,F15_a4_s040_v01.wav,donc fais moi signe,s040
+393,F01_a4_s040_v01.wav,donc fais moi signe,s040
+394,M19_a1_s040_v03.wav,donc fais moi signe,s040
+395,M16_a1_s040_v03.wav,donc fais moi signe,s040
+396,M07_a1_s040_v01.wav,donc fais moi signe,s040
+397,M09_a2_s040_v02.wav,donc fais moi signe,s040
+398,F06_a4_s040_v01.wav,donc fais moi signe,s040
+399,F05_a3_s040_v05.wav,donc fais moi signe,s040
+400,F18_a2_s041_v05.wav,je prends une pause,s041
+401,F15_a2_s041_v01.wav,je prends une pause,s041
+402,F18_a1_s041_v04.wav,je prends une pause,s041
+403,M13_a2_s041_v02.wav,je prends une pause,s041
+404,F18_a2_s041_v04.wav,je prends une pause,s041
+405,F14_a4_s041_v02.wav,je prends une pause,s041
+406,M19_a4_s041_v02.wav,je prends une pause,s041
+407,F15_a1_s041_v01.wav,je prends une pause,s041
+408,F10_a1_s041_v05.wav,je prends une pause,s041
+409,M17_a2_s041_v01.wav,je prends une pause,s041
+410,M19_a3_s042_v05.wav,faites lui confiance,s042
+411,F18_a4_s042_v01.wav,faites lui confiance,s042
+412,M16_a1_s042_v03.wav,faites lui confiance,s042
+413,F01_a4_s042_v02.wav,faites lui confiance,s042
+414,F01_a3_s042_v01.wav,faites lui confiance,s042
+415,M09_a2_s042_v05.wav,faites lui confiance,s042
+416,F08_a2_s042_v03.wav,faites lui confiance,s042
+417,M09_a2_s042_v03.wav,faites lui confiance,s042
+418,F05_a3_s042_v03.wav,faites lui confiance,s042
+419,F15_a2_s042_v01.wav,faites lui confiance,s042
+420,F06_a1_s043_v04.wav,donne leur une chance,s043
+421,F14_a3_s043_v02.wav,donne leur une chance,s043
+422,F08_a1_s043_v02.wav,donne leur une chance,s043
+423,M19_a1_s043_v06.wav,donne leur une chance,s043
+424,M13_a4_s043_v05.wav,donne leur une chance,s043
+425,M19_a1_s043_v05.wav,donne leur une chance,s043
+426,F05_a3_s043_v04.wav,donne leur une chance,s043
+427,M09_a2_s043_v05.wav,donne leur une chance,s043
+428,F18_a2_s043_v01.wav,donne leur une chance,s043
+429,F14_a4_s043_v03.wav,donne leur une chance,s043
+430,F10_a2_s044_v02.wav,vous avez dormi,s044
+431,M11_a3_s044_v03.wav,vous avez dormi,s044
+432,F06_a1_s044_v05.wav,vous avez dormi,s044
+433,F20_a1_s044_v04.wav,vous avez dormi,s044
+434,M19_a1_s044_v02.wav,vous avez dormi,s044
+435,M19_a1_s044_v03.wav,vous avez dormi,s044
+436,F02_a4_s044_v04.wav,vous avez dormi,s044
+437,F01_a4_s044_v01.wav,vous avez dormi,s044
+438,M04_a1_s044_v02.wav,vous avez dormi,s044
+439,M19_a2_s044_v02.wav,vous avez dormi,s044
+440,F01_a4_s045_v03.wav,je suis parti tôt,s045
+441,F15_a3_s045_v01.wav,je suis parti tôt,s045
+442,M11_a3_s045_v04.wav,je suis parti tôt,s045
+443,F03_a2_s045_v03.wav,je suis parti tôt,s045
+444,F06_a1_s045_v03.wav,je suis parti tôt,s045
+445,M12_a1_s045_v04.wav,je suis parti tôt,s045
+446,F10_a2_s045_v02.wav,je suis parti tôt,s045
+447,F15_a3_s045_v04.wav,je suis parti tôt,s045
+448,F02_a1_s045_v02.wav,je suis parti tôt,s045
+449,M04_a2_s045_v04.wav,je suis parti tôt,s045
+450,M11_a3_s046_v01.wav,nous avons chanté,s046
+451,F03_a1_s046_v03.wav,nous avons chanté,s046
+452,F03_a2_s046_v02.wav,nous avons chanté,s046
+453,F08_a1_s046_v04.wav,nous avons chanté,s046
+454,M19_a1_s046_v07.wav,nous avons chanté,s046
+455,M19_a3_s046_v04.wav,nous avons chanté,s046
+456,F05_a4_s046_v03.wav,nous avons chanté,s046
+457,F10_a3_s046_v02.wav,nous avons chanté,s046
+458,M11_a1_s046_v02.wav,nous avons chanté,s046
+459,F20_a4_s046_v01.wav,nous avons chanté,s046
+460,M12_a3_s047_v02.wav,nous avons eu peur,s047
+461,F01_a2_s047_v03.wav,nous avons eu peur,s047
+462,F01_a3_s047_v05.wav,nous avons eu peur,s047
+463,M04_a3_s047_v03.wav,nous avons eu peur,s047
+464,F01_a4_s047_v04.wav,nous avons eu peur,s047
+465,F01_a4_s047_v01.wav,nous avons eu peur,s047
+466,M17_a3_s047_v03.wav,nous avons eu peur,s047
+467,M09_a4_s047_v01.wav,nous avons eu peur,s047
+468,F15_a1_s047_v02.wav,nous avons eu peur,s047
+469,M13_a2_s047_v04.wav,nous avons eu peur,s047
+470,F01_a3_s048_v03.wav,veuillez m'écouter,s048
+471,M19_a1_s048_v07.wav,veuillez m'écouter,s048
+472,M13_a3_s048_v02.wav,veuillez m'écouter,s048
+473,M07_a3_s048_v02.wav,veuillez m'écouter,s048
+474,M13_a2_s048_v02.wav,veuillez m'écouter,s048
+475,M09_a4_s048_v05.wav,veuillez m'écouter,s048
+476,F05_a4_s048_v04.wav,veuillez m'écouter,s048
+477,M12_a1_s048_v02.wav,veuillez m'écouter,s048
+478,M07_a1_s048_v03.wav,veuillez m'écouter,s048
+479,F10_a3_s048_v03.wav,veuillez m'écouter,s048
+480,M12_a4_s049_v02.wav,bonne journée marie,s049
+481,F01_a1_s049_v02.wav,bonne journée marie,s049
+482,M17_a4_s049_v03.wav,bonne journée marie,s049
+483,F01_a1_s049_v04.wav,bonne journée marie,s049
+484,M09_a1_s049_v05.wav,bonne journée marie,s049
+485,F18_a1_s049_v03.wav,bonne journée marie,s049
+486,F06_a2_s049_v01.wav,bonne journée marie,s049
+487,F01_a2_s049_v03.wav,bonne journée marie,s049
+488,F02_a1_s049_v04.wav,bonne journée marie,s049
+489,F15_a4_s049_v03.wav,bonne journée marie,s049
+490,M04_a4_s050_v03.wav,donne moi une réponse,s050
+491,F20_a4_s050_v04.wav,donne moi une réponse,s050
+492,M07_a1_s050_v02.wav,donne moi une réponse,s050
+493,F01_a3_s050_v04.wav,donne moi une réponse,s050
+494,F06_a2_s050_v01.wav,donne moi une réponse,s050
+495,M09_a3_s050_v01.wav,donne moi une réponse,s050
+496,M13_a4_s050_v01.wav,donne moi une réponse,s050
+497,F08_a2_s050_v02.wav,donne moi une réponse,s050
+498,F08_a4_s050_v04.wav,donne moi une réponse,s050
+499,M07_a4_s050_v04.wav,donne moi une réponse,s050
+500,F05_a3_s051_v04.wav,il est tard à londres,s051
+501,M12_a2_s051_v06.wav,il est tard à londres,s051
+502,F08_a2_s051_v04.wav,il est tard à londres,s051
+503,F08_a3_s051_v02.wav,il est tard à londres,s051
+504,F06_a4_s051_v04.wav,il est tard à londres,s051
+505,F18_a4_s051_v02.wav,il est tard à londres,s051
+506,F18_a1_s051_v04.wav,il est tard à londres,s051
+507,F20_a2_s051_v05.wav,il est tard à londres,s051
+508,F03_a2_s051_v03.wav,il est tard à londres,s051
+509,M19_a3_s051_v03.wav,il est tard à londres,s051
+510,M09_a2_s052_v04.wav,je pars tout de suite,s052
+511,M11_a2_s052_v01.wav,je pars tout de suite,s052
+512,M19_a2_s052_v03.wav,je pars tout de suite,s052
+513,M11_a3_s052_v04.wav,je pars tout de suite,s052
+514,M11_a3_s052_v01.wav,je pars tout de suite,s052
+515,F02_a4_s052_v02.wav,je pars tout de suite,s052
+516,M13_a1_s052_v03.wav,je pars tout de suite,s052
+517,M19_a3_s052_v01.wav,je pars tout de suite,s052
+518,F05_a4_s052_v04.wav,je pars tout de suite,s052
+519,F01_a2_s052_v06.wav,je pars tout de suite,s052
+520,M19_a2_s053_v03.wav,veuillez vous asseoir,s053
+521,F06_a4_s053_v05.wav,veuillez vous asseoir,s053
+522,F02_a2_s053_v05.wav,veuillez vous asseoir,s053
+523,F14_a3_s053_v01.wav,veuillez vous asseoir,s053
+524,F05_a2_s053_v03.wav,veuillez vous asseoir,s053
+525,F06_a3_s053_v03.wav,veuillez vous asseoir,s053
+526,F15_a2_s053_v01.wav,veuillez vous asseoir,s053
+527,M12_a4_s053_v05.wav,veuillez vous asseoir,s053
+528,F08_a4_s053_v03.wav,veuillez vous asseoir,s053
+529,F01_a1_s053_v01.wav,veuillez vous asseoir,s053
+530,M09_a2_s054_v05.wav,faisons leur confiance,s054
+531,M09_a2_s054_v04.wav,faisons leur confiance,s054
+532,F20_a3_s054_v04.wav,faisons leur confiance,s054
+533,M04_a3_s054_v02.wav,faisons leur confiance,s054
+534,F10_a2_s054_v03.wav,faisons leur confiance,s054
+535,F01_a1_s054_v05.wav,faisons leur confiance,s054
+536,M09_a1_s054_v03.wav,faisons leur confiance,s054
+537,F14_a1_s054_v03.wav,faisons leur confiance,s054
+538,F14_a3_s054_v01.wav,faisons leur confiance,s054
+539,F02_a2_s054_v02.wav,faisons leur confiance,s054
+540,M13_a1_s055_v05.wav,tu as pris la fuite,s055
+541,F15_a3_s055_v03.wav,tu as pris la fuite,s055
+542,F08_a1_s055_v01.wav,tu as pris la fuite,s055
+543,F01_a1_s055_v04.wav,tu as pris la fuite,s055
+544,F18_a4_s055_v04.wav,tu as pris la fuite,s055
+545,M04_a3_s055_v03.wav,tu as pris la fuite,s055
+546,M12_a2_s055_v05.wav,tu as pris la fuite,s055
+547,F06_a2_s055_v03.wav,tu as pris la fuite,s055
+548,M17_a2_s055_v05.wav,tu as pris la fuite,s055
+549,F01_a1_s055_v03.wav,tu as pris la fuite,s055
+550,M12_a2_s056_v05.wav,faites moi donc une offre,s056
+551,F18_a3_s056_v02.wav,faites moi donc une offre,s056
+552,F06_a4_s056_v04.wav,faites moi donc une offre,s056
+553,M12_a3_s056_v05.wav,faites moi donc une offre,s056
+554,F06_a2_s056_v04.wav,faites moi donc une offre,s056
+555,M13_a1_s056_v05.wav,faites moi donc une offre,s056
+556,M12_a3_s056_v01.wav,faites moi donc une offre,s056
+557,F10_a1_s056_v05.wav,faites moi donc une offre,s056
+558,M13_a1_s056_v04.wav,faites moi donc une offre,s056
+559,F14_a2_s056_v03.wav,faites moi donc une offre,s056
+560,F01_a1_s057_v01.wav,vous avez réfléchi,s057
+561,M09_a4_s057_v01.wav,vous avez réfléchi,s057
+562,F02_a2_s057_v03.wav,vous avez réfléchi,s057
+563,M09_a1_s057_v03.wav,vous avez réfléchi,s057
+564,M19_a2_s057_v01.wav,vous avez réfléchi,s057
+565,M16_a3_s057_v02.wav,vous avez réfléchi,s057
+566,F06_a4_s057_v01.wav,vous avez réfléchi,s057
+567,M04_a1_s057_v03.wav,vous avez réfléchi,s057
+568,M13_a4_s057_v04.wav,vous avez réfléchi,s057
+569,M16_a4_s057_v03.wav,vous avez réfléchi,s057
+570,F15_a3_s058_v04.wav,il est tôt à new-york,s058
+571,F08_a3_s058_v04.wav,il est tôt à new-york,s058
+572,F15_a3_s058_v03.wav,il est tôt à new-york,s058
+573,M04_a2_s058_v03.wav,il est tôt à new-york,s058
+574,F10_a4_s058_v03.wav,il est tôt à new-york,s058
+575,M07_a1_s058_v05.wav,il est tôt à new-york,s058
+576,F15_a4_s058_v01.wav,il est tôt à new-york,s058
+577,M04_a3_s058_v02.wav,il est tôt à new-york,s058
+578,M04_a4_s058_v01.wav,il est tôt à new-york,s058
+579,F14_a2_s058_v04.wav,il est tôt à new-york,s058
+580,F20_a4_s059_v05.wav,il est tard à paris,s059
+581,F06_a2_s059_v02.wav,il est tard à paris,s059
+582,M17_a2_s059_v04.wav,il est tard à paris,s059
+583,M07_a4_s059_v05.wav,il est tard à paris,s059
+584,F02_a4_s059_v03.wav,il est tard à paris,s059
+585,M11_a4_s059_v02.wav,il est tard à paris,s059
+586,M12_a2_s059_v02.wav,il est tard à paris,s059
+587,M12_a2_s059_v05.wav,il est tard à paris,s059
+588,F15_a1_s059_v06.wav,il est tard à paris,s059
+589,F14_a3_s059_v01.wav,il est tard à paris,s059
+590,F01_a2_s060_v02.wav,donne moi une occasion,s060
+591,M17_a4_s060_v05.wav,donne moi une occasion,s060
+592,F20_a2_s060_v03.wav,donne moi une occasion,s060
+593,F08_a2_s060_v04.wav,donne moi une occasion,s060
+594,M19_a4_s060_v03.wav,donne moi une occasion,s060
+595,M19_a1_s060_v06.wav,donne moi une occasion,s060
+596,F05_a1_s060_v01.wav,donne moi une occasion,s060
+597,M11_a2_s060_v04.wav,donne moi une occasion,s060
+598,M13_a3_s060_v05.wav,donne moi une occasion,s060
+599,M07_a1_s060_v04.wav,donne moi une occasion,s060
+600,M16_a4_s061_v01.wav,tu as dit la même chose,s061
+601,F18_a3_s061_v02.wav,tu as dit la même chose,s061
+602,M09_a4_s061_v01.wav,tu as dit la même chose,s061
+603,F01_a4_s061_v02.wav,tu as dit la même chose,s061
+604,M13_a3_s061_v04.wav,tu as dit la même chose,s061
+605,M13_a3_s061_v02.wav,tu as dit la même chose,s061
+606,F10_a3_s061_v04.wav,tu as dit la même chose,s061
+607,M16_a3_s061_v01.wav,tu as dit la même chose,s061
+608,M13_a1_s061_v01.wav,tu as dit la même chose,s061
+609,M09_a2_s061_v02.wav,tu as dit la même chose,s061
+610,F02_a4_s062_v01.wav,vous avez pris le temps,s062
+611,F15_a1_s062_v03.wav,vous avez pris le temps,s062
+612,F05_a2_s062_v05.wav,vous avez pris le temps,s062
+613,F05_a2_s062_v04.wav,vous avez pris le temps,s062
+614,M19_a3_s062_v07.wav,vous avez pris le temps,s062
+615,F15_a1_s062_v05.wav,vous avez pris le temps,s062
+616,F08_a2_s062_v03.wav,vous avez pris le temps,s062
+617,F08_a3_s062_v06.wav,vous avez pris le temps,s062
+618,F08_a1_s062_v01.wav,vous avez pris le temps,s062
+619,F05_a3_s062_v03.wav,vous avez pris le temps,s062
+620,F06_a1_s063_v05.wav,il est tard à lisbonne,s063
+621,M16_a3_s063_v01.wav,il est tard à lisbonne,s063
+622,M12_a2_s063_v01.wav,il est tard à lisbonne,s063
+623,F05_a2_s063_v03.wav,il est tard à lisbonne,s063
+624,F08_a2_s063_v02.wav,il est tard à lisbonne,s063
+625,M07_a4_s063_v01.wav,il est tard à lisbonne,s063
+626,M16_a2_s063_v02.wav,il est tard à lisbonne,s063
+627,F05_a2_s063_v02.wav,il est tard à lisbonne,s063
+628,F08_a1_s063_v05.wav,il est tard à lisbonne,s063
+629,M19_a4_s063_v08.wav,il est tard à lisbonne,s063
+630,M17_a3_s064_v05.wav,nous allons prendre un verre,s064
+631,F18_a1_s064_v01.wav,nous allons prendre un verre,s064
+632,F14_a3_s064_v03.wav,nous allons prendre un verre,s064
+633,M13_a2_s064_v02.wav,nous allons prendre un verre,s064
+634,M13_a3_s064_v04.wav,nous allons prendre un verre,s064
+635,M17_a2_s064_v02.wav,nous allons prendre un verre,s064
+636,F05_a3_s064_v03.wav,nous allons prendre un verre,s064
+637,M17_a4_s064_v04.wav,nous allons prendre un verre,s064
+638,M16_a3_s064_v03.wav,nous allons prendre un verre,s064
+639,F03_a4_s064_v05.wav,nous allons prendre un verre,s064
+640,F18_a2_s065_v03.wav,laisse moi une deuxième chance,s065
+641,M11_a1_s065_v01.wav,laisse moi une deuxième chance,s065
+642,M09_a1_s065_v04.wav,laisse moi une deuxième chance,s065
+643,M07_a2_s065_v02.wav,laisse moi une deuxième chance,s065
+644,F18_a1_s065_v02.wav,laisse moi une deuxième chance,s065
+645,M04_a3_s065_v03.wav,laisse moi une deuxième chance,s065
+646,F06_a3_s065_v01.wav,laisse moi une deuxième chance,s065
+647,M09_a3_s065_v04.wav,laisse moi une deuxième chance,s065
+648,F06_a4_s065_v05.wav,laisse moi une deuxième chance,s065
+649,F18_a3_s065_v04.wav,laisse moi une deuxième chance,s065
+650,F15_a3_s066_v01.wav,elle est partie pour bale,s066
+651,M12_a4_s066_v01.wav,elle est partie pour bale,s066
+652,F08_a1_s066_v03.wav,elle est partie pour bale,s066
+653,F10_a4_s066_v04.wav,elle est partie pour bale,s066
+654,M19_a1_s066_v06.wav,elle est partie pour bale,s066
+655,F20_a4_s066_v02.wav,elle est partie pour bale,s066
+656,M17_a3_s066_v04.wav,elle est partie pour bale,s066
+657,M13_a1_s066_v04.wav,elle est partie pour bale,s066
+658,M04_a3_s066_v02.wav,elle est partie pour bale,s066
+659,F18_a2_s066_v03.wav,elle est partie pour bale,s066
+660,M11_a4_s067_v05.wav,tu es parti en week-end,s067
+661,M16_a1_s067_v03.wav,tu es parti en week-end,s067
+662,M09_a3_s067_v02.wav,tu es parti en week-end,s067
+663,M17_a2_s067_v05.wav,tu es parti en week-end,s067
+664,F20_a4_s067_v04.wav,tu es parti en week-end,s067
+665,F05_a3_s067_v01.wav,tu es parti en week-end,s067
+666,M13_a2_s067_v03.wav,tu es parti en week-end,s067
+667,M12_a3_s067_v02.wav,tu es parti en week-end,s067
+668,F10_a1_s067_v04.wav,tu es parti en week-end,s067
+669,F20_a1_s067_v01.wav,tu es parti en week-end,s067
+670,M12_a4_s068_v06.wav,tu as oublié ma veste,s068
+671,M09_a2_s068_v01.wav,tu as oublié ma veste,s068
+672,F20_a4_s068_v04.wav,tu as oublié ma veste,s068
+673,M17_a2_s068_v02.wav,tu as oublié ma veste,s068
+674,F08_a2_s068_v02.wav,tu as oublié ma veste,s068
+675,F15_a3_s068_v03.wav,tu as oublié ma veste,s068
+676,F02_a1_s068_v01.wav,tu as oublié ma veste,s068
+677,F18_a3_s068_v04.wav,tu as oublié ma veste,s068
+678,M16_a4_s068_v04.wav,tu as oublié ma veste,s068
+679,M19_a1_s068_v01.wav,tu as oublié ma veste,s068
+680,M19_a1_s069_v04.wav,elle a oublié ma fête,s069
+681,F10_a3_s069_v01.wav,elle a oublié ma fête,s069
+682,F15_a1_s069_v04.wav,elle a oublié ma fête,s069
+683,F10_a1_s069_v04.wav,elle a oublié ma fête,s069
+684,F01_a4_s069_v04.wav,elle a oublié ma fête,s069
+685,F05_a3_s069_v01.wav,elle a oublié ma fête,s069
+686,F05_a3_s069_v02.wav,elle a oublié ma fête,s069
+687,M13_a4_s069_v02.wav,elle a oublié ma fête,s069
+688,F02_a3_s069_v01.wav,elle a oublié ma fête,s069
+689,M12_a2_s069_v01.wav,elle a oublié ma fête,s069
+690,F20_a4_s070_v03.wav,je suis parti loin d'ici,s070
+691,F10_a3_s070_v03.wav,je suis parti loin d'ici,s070
+692,M11_a4_s070_v02.wav,je suis parti loin d'ici,s070
+693,M11_a1_s070_v04.wav,je suis parti loin d'ici,s070
+694,F03_a3_s070_v05.wav,je suis parti loin d'ici,s070
+695,F02_a2_s070_v05.wav,je suis parti loin d'ici,s070
+696,M07_a4_s070_v01.wav,je suis parti loin d'ici,s070
+697,F10_a2_s070_v02.wav,je suis parti loin d'ici,s070
+698,M16_a1_s070_v02.wav,je suis parti loin d'ici,s070
+699,F15_a1_s070_v03.wav,je suis parti loin d'ici,s070
+700,F05_a3_s071_v04.wav,j'ai toussé toute la soirée,s071
+701,F08_a2_s071_v03.wav,j'ai toussé toute la soirée,s071
+702,F02_a3_s071_v04.wav,j'ai toussé toute la soirée,s071
+703,M13_a4_s071_v05.wav,j'ai toussé toute la soirée,s071
+704,M04_a1_s071_v02.wav,j'ai toussé toute la soirée,s071
+705,F01_a3_s071_v05.wav,j'ai toussé toute la soirée,s071
+706,F02_a2_s071_v03.wav,j'ai toussé toute la soirée,s071
+707,M17_a1_s071_v04.wav,j'ai toussé toute la soirée,s071
+708,M04_a3_s071_v01.wav,j'ai toussé toute la soirée,s071
+709,M07_a3_s071_v01.wav,j'ai toussé toute la soirée,s071
+710,F08_a3_s072_v04.wav,je suis parti sans trainer,s072
+711,F03_a3_s072_v04.wav,je suis parti sans trainer,s072
+712,F02_a1_s072_v01.wav,je suis parti sans trainer,s072
+713,M19_a2_s072_v04.wav,je suis parti sans trainer,s072
+714,M17_a1_s072_v04.wav,je suis parti sans trainer,s072
+715,F02_a2_s072_v03.wav,je suis parti sans trainer,s072
+716,M19_a4_s072_v03.wav,je suis parti sans trainer,s072
+717,F10_a3_s072_v03.wav,je suis parti sans trainer,s072
+718,F14_a4_s072_v05.wav,je suis parti sans trainer,s072
+719,M12_a4_s072_v02.wav,je suis parti sans trainer,s072
+720,F08_a2_s073_v06.wav,tu as marché toute la nuit,s073
+721,M13_a2_s073_v05.wav,tu as marché toute la nuit,s073
+722,M11_a2_s073_v05.wav,tu as marché toute la nuit,s073
+723,M16_a3_s073_v02.wav,tu as marché toute la nuit,s073
+724,M19_a2_s073_v07.wav,tu as marché toute la nuit,s073
+725,M07_a2_s073_v05.wav,tu as marché toute la nuit,s073
+726,M09_a1_s073_v01.wav,tu as marché toute la nuit,s073
+727,F20_a4_s073_v05.wav,tu as marché toute la nuit,s073
+728,M09_a2_s073_v02.wav,tu as marché toute la nuit,s073
+729,F05_a2_s073_v03.wav,tu as marché toute la nuit,s073
+730,F10_a1_s074_v02.wav,tu es parti pour l'espagne,s074
+731,M19_a3_s074_v06.wav,tu es parti pour l'espagne,s074
+732,F03_a4_s074_v04.wav,tu es parti pour l'espagne,s074
+733,F03_a1_s074_v01.wav,tu es parti pour l'espagne,s074
+734,F08_a4_s074_v05.wav,tu es parti pour l'espagne,s074
+735,M19_a3_s074_v01.wav,tu es parti pour l'espagne,s074
+736,M12_a2_s074_v01.wav,tu es parti pour l'espagne,s074
+737,M16_a4_s074_v02.wav,tu es parti pour l'espagne,s074
+738,F03_a1_s074_v04.wav,tu es parti pour l'espagne,s074
+739,M16_a1_s074_v02.wav,tu es parti pour l'espagne,s074
+740,F01_a3_s075_v03.wav,vous êtes allés à la plage,s075
+741,M19_a1_s075_v02.wav,vous êtes allés à la plage,s075
+742,F08_a1_s075_v02.wav,vous êtes allés à la plage,s075
+743,F05_a4_s075_v01.wav,vous êtes allés à la plage,s075
+744,F03_a1_s075_v01.wav,vous êtes allés à la plage,s075
+745,M09_a1_s075_v01.wav,vous êtes allés à la plage,s075
+746,M19_a3_s075_v05.wav,vous êtes allés à la plage,s075
+747,M07_a4_s075_v01.wav,vous êtes allés à la plage,s075
+748,M11_a2_s075_v03.wav,vous êtes allés à la plage,s075
+749,F03_a3_s075_v05.wav,vous êtes allés à la plage,s075
+750,M13_a3_s076_v02.wav,elle est partie en vacances,s076
+751,M16_a3_s076_v03.wav,elle est partie en vacances,s076
+752,F01_a3_s076_v01.wav,elle est partie en vacances,s076
+753,F14_a4_s076_v03.wav,elle est partie en vacances,s076
+754,M16_a1_s076_v02.wav,elle est partie en vacances,s076
+755,F20_a3_s076_v01.wav,elle est partie en vacances,s076
+756,F02_a4_s076_v05.wav,elle est partie en vacances,s076
+757,M13_a2_s076_v05.wav,elle est partie en vacances,s076
+758,F01_a4_s076_v03.wav,elle est partie en vacances,s076
+759,F03_a3_s076_v02.wav,elle est partie en vacances,s076
+760,M09_a1_s077_v03.wav,nous allons attendre un peu,s077
+761,F05_a4_s077_v01.wav,nous allons attendre un peu,s077
+762,F05_a4_s077_v02.wav,nous allons attendre un peu,s077
+763,F08_a3_s077_v04.wav,nous allons attendre un peu,s077
+764,F15_a3_s077_v02.wav,nous allons attendre un peu,s077
+765,F08_a3_s077_v01.wav,nous allons attendre un peu,s077
+766,F18_a2_s077_v02.wav,nous allons attendre un peu,s077
+767,M17_a3_s077_v02.wav,nous allons attendre un peu,s077
+768,F03_a2_s077_v02.wav,nous allons attendre un peu,s077
+769,M17_a4_s077_v01.wav,nous allons attendre un peu,s077
+770,M16_a1_s078_v02.wav,nous allons prendre un café,s078
+771,M07_a4_s078_v01.wav,nous allons prendre un café,s078
+772,M16_a3_s078_v01.wav,nous allons prendre un café,s078
+773,F02_a3_s078_v01.wav,nous allons prendre un café,s078
+774,M19_a1_s078_v06.wav,nous allons prendre un café,s078
+775,F05_a2_s078_v01.wav,nous allons prendre un café,s078
+776,F01_a2_s078_v06.wav,nous allons prendre un café,s078
+777,M17_a2_s078_v03.wav,nous allons prendre un café,s078
+778,M12_a1_s078_v03.wav,nous allons prendre un café,s078
+779,F05_a1_s078_v03.wav,nous allons prendre un café,s078
+780,M04_a1_s079_v02.wav,ta soeur a bu toute la nuit,s079
+781,M09_a2_s079_v02.wav,ta soeur a bu toute la nuit,s079
+782,F20_a4_s079_v01.wav,ta soeur a bu toute la nuit,s079
+783,M17_a3_s079_v03.wav,ta soeur a bu toute la nuit,s079
+784,M11_a3_s079_v04.wav,ta soeur a bu toute la nuit,s079
+785,M16_a1_s079_v01.wav,ta soeur a bu toute la nuit,s079
+786,M11_a4_s079_v02.wav,ta soeur a bu toute la nuit,s079
+787,F03_a3_s079_v07.wav,ta soeur a bu toute la nuit,s079
+788,F01_a3_s079_v05.wav,ta soeur a bu toute la nuit,s079
+789,M13_a4_s079_v05.wav,ta soeur a bu toute la nuit,s079
+790,M12_a3_s080_v04.wav,vous êtes partis rapidement,s080
+791,M16_a4_s080_v01.wav,vous êtes partis rapidement,s080
+792,F15_a1_s080_v02.wav,vous êtes partis rapidement,s080
+793,M13_a3_s080_v02.wav,vous êtes partis rapidement,s080
+794,F05_a4_s080_v04.wav,vous êtes partis rapidement,s080
+795,F08_a4_s080_v02.wav,vous êtes partis rapidement,s080
+796,M17_a3_s080_v02.wav,vous êtes partis rapidement,s080
+797,F20_a2_s080_v02.wav,vous êtes partis rapidement,s080
+798,F02_a4_s080_v03.wav,vous êtes partis rapidement,s080
+799,F03_a1_s080_v05.wav,vous êtes partis rapidement,s080
+800,F05_a1_s081_v03.wav,c’est vrai attendons un peu,s081
+801,F05_a1_s081_v01.wav,c’est vrai attendons un peu,s081
+802,M19_a1_s081_v05.wav,c’est vrai attendons un peu,s081
+803,F02_a2_s081_v04.wav,c’est vrai attendons un peu,s081
+804,F20_a3_s081_v04.wav,c’est vrai attendons un peu,s081
+805,M07_a1_s081_v05.wav,c’est vrai attendons un peu,s081
+806,M07_a2_s081_v05.wav,c’est vrai attendons un peu,s081
+807,F10_a4_s081_v03.wav,c’est vrai attendons un peu,s081
+808,F06_a2_s081_v01.wav,c’est vrai attendons un peu,s081
+809,F05_a2_s081_v05.wav,c’est vrai attendons un peu,s081
+810,F15_a1_s082_v01.wav,il faisait froid aujourd'hui,s082
+811,M19_a3_s082_v06.wav,il faisait froid aujourd'hui,s082
+812,F01_a3_s082_v04.wav,il faisait froid aujourd'hui,s082
+813,F05_a3_s082_v03.wav,il faisait froid aujourd'hui,s082
+814,M12_a4_s082_v02.wav,il faisait froid aujourd'hui,s082
+815,M04_a4_s082_v03.wav,il faisait froid aujourd'hui,s082
+816,M19_a3_s082_v01.wav,il faisait froid aujourd'hui,s082
+817,M12_a1_s082_v05.wav,il faisait froid aujourd'hui,s082
+818,F01_a2_s082_v02.wav,il faisait froid aujourd'hui,s082
+819,M09_a3_s082_v03.wav,il faisait froid aujourd'hui,s082
+820,M04_a3_s083_v02.wav,nous allons prendre la fuite,s083
+821,F01_a4_s083_v02.wav,nous allons prendre la fuite,s083
+822,F20_a4_s083_v02.wav,nous allons prendre la fuite,s083
+823,F05_a2_s083_v01.wav,nous allons prendre la fuite,s083
+824,F02_a3_s083_v01.wav,nous allons prendre la fuite,s083
+825,M11_a3_s083_v04.wav,nous allons prendre la fuite,s083
+826,M17_a4_s083_v03.wav,nous allons prendre la fuite,s083
+827,M09_a2_s083_v04.wav,nous allons prendre la fuite,s083
+828,F08_a3_s083_v03.wav,nous allons prendre la fuite,s083
+829,F18_a3_s083_v04.wav,nous allons prendre la fuite,s083
+830,M19_a1_s084_v08.wav,vous êtes partis en week-end,s084
+831,M19_a3_s084_v02.wav,vous êtes partis en week-end,s084
+832,M04_a2_s084_v02.wav,vous êtes partis en week-end,s084
+833,F05_a4_s084_v02.wav,vous êtes partis en week-end,s084
+834,M19_a4_s084_v01.wav,vous êtes partis en week-end,s084
+835,F05_a4_s084_v01.wav,vous êtes partis en week-end,s084
+836,M19_a4_s084_v03.wav,vous êtes partis en week-end,s084
+837,F08_a1_s084_v01.wav,vous êtes partis en week-end,s084
+838,F18_a1_s084_v03.wav,vous êtes partis en week-end,s084
+839,F08_a4_s084_v02.wav,vous êtes partis en week-end,s084
+840,F06_a4_s085_v03.wav,certes attendons qu'il arrive,s085
+841,M12_a2_s085_v01.wav,certes attendons qu'il arrive,s085
+842,F06_a1_s085_v03.wav,certes attendons qu'il arrive,s085
+843,F15_a4_s085_v04.wav,certes attendons qu'il arrive,s085
+844,M19_a1_s085_v07.wav,certes attendons qu'il arrive,s085
+845,M04_a2_s085_v01.wav,certes attendons qu'il arrive,s085
+846,M09_a3_s085_v04.wav,certes attendons qu'il arrive,s085
+847,M12_a1_s085_v05.wav,certes attendons qu'il arrive,s085
+848,M09_a4_s085_v05.wav,certes attendons qu'il arrive,s085
+849,M09_a4_s085_v03.wav,certes attendons qu'il arrive,s085
+850,F14_a1_s086_v02.wav,il fait lourd ce soir à londres,s086
+851,M13_a4_s086_v05.wav,il fait lourd ce soir à londres,s086
+852,M17_a4_s086_v03.wav,il fait lourd ce soir à londres,s086
+853,M07_a1_s086_v02.wav,il fait lourd ce soir à londres,s086
+854,M12_a2_s086_v03.wav,il fait lourd ce soir à londres,s086
+855,M07_a3_s086_v02.wav,il fait lourd ce soir à londres,s086
+856,M09_a4_s086_v03.wav,il fait lourd ce soir à londres,s086
+857,F06_a4_s086_v02.wav,il fait lourd ce soir à londres,s086
+858,F20_a3_s086_v02.wav,il fait lourd ce soir à londres,s086
+859,M19_a1_s086_v01.wav,il fait lourd ce soir à londres,s086
+860,M19_a1_s087_v05.wav,nous allons prendre des vacances,s087
+861,M07_a1_s087_v03.wav,nous allons prendre des vacances,s087
+862,M17_a3_s087_v02.wav,nous allons prendre des vacances,s087
+863,F15_a1_s087_v04.wav,nous allons prendre des vacances,s087
+864,M04_a1_s087_v01.wav,nous allons prendre des vacances,s087
+865,F01_a4_s087_v03.wav,nous allons prendre des vacances,s087
+866,F02_a4_s087_v04.wav,nous allons prendre des vacances,s087
+867,M11_a2_s087_v04.wav,nous allons prendre des vacances,s087
+868,F14_a4_s087_v01.wav,nous allons prendre des vacances,s087
+869,M17_a2_s087_v02.wav,nous allons prendre des vacances,s087
+870,F06_a1_s088_v02.wav,vous avez oublié mon verre,s088
+871,F01_a4_s088_v03.wav,vous avez oublié mon verre,s088
+872,M19_a4_s088_v02.wav,vous avez oublié mon verre,s088
+873,F08_a2_s088_v01.wav,vous avez oublié mon verre,s088
+874,F15_a2_s088_v02.wav,vous avez oublié mon verre,s088
+875,F03_a1_s088_v03.wav,vous avez oublié mon verre,s088
+876,M17_a2_s088_v03.wav,vous avez oublié mon verre,s088
+877,F10_a4_s088_v01.wav,vous avez oublié mon verre,s088
+878,M17_a2_s088_v04.wav,vous avez oublié mon verre,s088
+879,F01_a1_s088_v01.wav,vous avez oublié mon verre,s088
+880,F02_a4_s089_v04.wav,elle a dit ce que je voulais,s089
+881,F02_a3_s089_v02.wav,elle a dit ce que je voulais,s089
+882,F08_a2_s089_v05.wav,elle a dit ce que je voulais,s089
+883,F15_a2_s089_v02.wav,elle a dit ce que je voulais,s089
+884,M09_a2_s089_v02.wav,elle a dit ce que je voulais,s089
+885,F01_a3_s089_v01.wav,elle a dit ce que je voulais,s089
+886,F01_a3_s089_v05.wav,elle a dit ce que je voulais,s089
+887,M16_a1_s089_v02.wav,elle a dit ce que je voulais,s089
+888,M04_a1_s089_v03.wav,elle a dit ce que je voulais,s089
+889,F03_a4_s089_v04.wav,elle a dit ce que je voulais,s089
+890,F02_a2_s090_v02.wav,elle est allée à la montagne,s090
+891,F20_a1_s090_v01.wav,elle est allée à la montagne,s090
+892,M13_a1_s090_v03.wav,elle est allée à la montagne,s090
+893,F08_a3_s090_v03.wav,elle est allée à la montagne,s090
+894,F01_a2_s090_v04.wav,elle est allée à la montagne,s090
+895,F18_a1_s090_v03.wav,elle est allée à la montagne,s090
+896,F14_a2_s090_v02.wav,elle est allée à la montagne,s090
+897,F18_a4_s090_v01.wav,elle est allée à la montagne,s090
+898,M12_a1_s090_v02.wav,elle est allée à la montagne,s090
+899,F10_a1_s090_v02.wav,elle est allée à la montagne,s090
+900,F20_a3_s091_v03.wav,il fait beau ce soir à paris,s091
+901,M19_a2_s091_v02.wav,il fait beau ce soir à paris,s091
+902,M13_a2_s091_v02.wav,il fait beau ce soir à paris,s091
+903,M16_a1_s091_v03.wav,il fait beau ce soir à paris,s091
+904,F03_a2_s091_v01.wav,il fait beau ce soir à paris,s091
+905,M13_a3_s091_v03.wav,il fait beau ce soir à paris,s091
+906,M17_a3_s091_v05.wav,il fait beau ce soir à paris,s091
+907,F15_a2_s091_v01.wav,il fait beau ce soir à paris,s091
+908,F08_a3_s091_v04.wav,il fait beau ce soir à paris,s091
+909,M04_a1_s091_v02.wav,il fait beau ce soir à paris,s091
+910,F10_a3_s092_v05.wav,impossible attendons un peu,s092
+911,F18_a4_s092_v01.wav,impossible attendons un peu,s092
+912,F14_a2_s092_v02.wav,impossible attendons un peu,s092
+913,F05_a4_s092_v05.wav,impossible attendons un peu,s092
+914,M07_a2_s092_v01.wav,impossible attendons un peu,s092
+915,M19_a1_s092_v02.wav,impossible attendons un peu,s092
+916,F15_a2_s092_v01.wav,impossible attendons un peu,s092
+917,M13_a2_s092_v04.wav,impossible attendons un peu,s092
+918,F01_a4_s092_v02.wav,impossible attendons un peu,s092
+919,M09_a4_s092_v01.wav,impossible attendons un peu,s092
+920,F05_a3_s093_v05.wav,tu as fait ce que je voulais,s093
+921,M12_a4_s093_v05.wav,tu as fait ce que je voulais,s093
+922,M11_a2_s093_v05.wav,tu as fait ce que je voulais,s093
+923,M13_a3_s093_v05.wav,tu as fait ce que je voulais,s093
+924,F08_a3_s093_v03.wav,tu as fait ce que je voulais,s093
+925,F15_a3_s093_v01.wav,tu as fait ce que je voulais,s093
+926,F01_a3_s093_v03.wav,tu as fait ce que je voulais,s093
+927,F08_a1_s093_v04.wav,tu as fait ce que je voulais,s093
+928,F20_a2_s093_v04.wav,tu as fait ce que je voulais,s093
+929,M16_a3_s093_v01.wav,tu as fait ce que je voulais,s093
+930,M17_a2_s094_v01.wav,elle a fait ce que je voulais,s094
+931,F18_a2_s094_v02.wav,elle a fait ce que je voulais,s094
+932,M04_a4_s094_v01.wav,elle a fait ce que je voulais,s094
+933,F20_a4_s094_v03.wav,elle a fait ce que je voulais,s094
+934,F02_a4_s094_v01.wav,elle a fait ce que je voulais,s094
+935,M12_a4_s094_v08.wav,elle a fait ce que je voulais,s094
+936,M09_a2_s094_v03.wav,elle a fait ce que je voulais,s094
+937,F10_a3_s094_v03.wav,elle a fait ce que je voulais,s094
+938,F03_a2_s094_v05.wav,elle a fait ce que je voulais,s094
+939,M17_a2_s094_v02.wav,elle a fait ce que je voulais,s094
+940,M19_a3_s095_v01.wav,vous avez dormi toute la nuit,s095
+941,M19_a2_s095_v04.wav,vous avez dormi toute la nuit,s095
+942,F20_a3_s095_v05.wav,vous avez dormi toute la nuit,s095
+943,M12_a2_s095_v03.wav,vous avez dormi toute la nuit,s095
+944,F20_a3_s095_v03.wav,vous avez dormi toute la nuit,s095
+945,F06_a3_s095_v02.wav,vous avez dormi toute la nuit,s095
+946,F08_a4_s095_v01.wav,vous avez dormi toute la nuit,s095
+947,F02_a1_s095_v01.wav,vous avez dormi toute la nuit,s095
+948,M07_a3_s095_v04.wav,vous avez dormi toute la nuit,s095
+949,F18_a1_s095_v01.wav,vous avez dormi toute la nuit,s095
+950,M11_a2_s096_v03.wav,vous avez dit ce qu'il fallait,s096
+951,F18_a4_s096_v01.wav,vous avez dit ce qu'il fallait,s096
+952,M09_a3_s096_v01.wav,vous avez dit ce qu'il fallait,s096
+953,F20_a2_s096_v05.wav,vous avez dit ce qu'il fallait,s096
+954,M07_a1_s096_v01.wav,vous avez dit ce qu'il fallait,s096
+955,M17_a3_s096_v05.wav,vous avez dit ce qu'il fallait,s096
+956,M12_a1_s096_v01.wav,vous avez dit ce qu'il fallait,s096
+957,F02_a1_s096_v02.wav,vous avez dit ce qu'il fallait,s096
+958,M17_a1_s096_v01.wav,vous avez dit ce qu'il fallait,s096
+959,F14_a4_s096_v01.wav,vous avez dit ce qu'il fallait,s096
+960,M12_a4_s097_v02.wav,vous avez fait ce qu'il fallait,s097
+961,F18_a3_s097_v03.wav,vous avez fait ce qu'il fallait,s097
+962,F15_a3_s097_v04.wav,vous avez fait ce qu'il fallait,s097
+963,F15_a3_s097_v02.wav,vous avez fait ce qu'il fallait,s097
+964,M07_a4_s097_v01.wav,vous avez fait ce qu'il fallait,s097
+965,F15_a4_s097_v01.wav,vous avez fait ce qu'il fallait,s097
+966,F10_a4_s097_v04.wav,vous avez fait ce qu'il fallait,s097
+967,F20_a1_s097_v02.wav,vous avez fait ce qu'il fallait,s097
+968,M16_a3_s097_v03.wav,vous avez fait ce qu'il fallait,s097
+969,M11_a1_s097_v03.wav,vous avez fait ce qu'il fallait,s097
+970,F06_a3_s098_v04.wav,nous allons attendre qu'il arrive,s098
+971,F06_a1_s098_v01.wav,nous allons attendre qu'il arrive,s098
+972,F08_a2_s098_v01.wav,nous allons attendre qu'il arrive,s098
+973,M09_a4_s098_v05.wav,nous allons attendre qu'il arrive,s098
+974,F01_a2_s098_v04.wav,nous allons attendre qu'il arrive,s098
+975,M07_a2_s098_v02.wav,nous allons attendre qu'il arrive,s098
+976,F20_a4_s098_v02.wav,nous allons attendre qu'il arrive,s098
+977,M19_a1_s098_v08.wav,nous allons attendre qu'il arrive,s098
+978,M13_a3_s098_v02.wav,nous allons attendre qu'il arrive,s098
+979,F03_a2_s098_v02.wav,nous allons attendre qu'il arrive,s098
+980,F08_a4_s099_v01.wav,nous allons prendre notre journée,s099
+981,F03_a3_s099_v01.wav,nous allons prendre notre journée,s099
+982,M07_a4_s099_v02.wav,nous allons prendre notre journée,s099
+983,M04_a4_s099_v02.wav,nous allons prendre notre journée,s099
+984,M17_a4_s099_v05.wav,nous allons prendre notre journée,s099
+985,M16_a1_s099_v03.wav,nous allons prendre notre journée,s099
+986,F05_a3_s099_v03.wav,nous allons prendre notre journée,s099
+987,F18_a2_s099_v04.wav,nous allons prendre notre journée,s099
+988,M13_a3_s099_v04.wav,nous allons prendre notre journée,s099
+989,M19_a1_s099_v04.wav,nous allons prendre notre journée,s099
+990,M13_a2_s100_v01.wav,c’est vrai allons prendre un café,s100
+991,M07_a3_s100_v02.wav,c’est vrai allons prendre un café,s100
+992,F20_a1_s100_v02.wav,c’est vrai allons prendre un café,s100
+993,M12_a3_s100_v02.wav,c’est vrai allons prendre un café,s100
+994,F01_a1_s100_v01.wav,c’est vrai allons prendre un café,s100
+995,F08_a4_s100_v05.wav,c’est vrai allons prendre un café,s100
+996,F08_a3_s100_v01.wav,c’est vrai allons prendre un café,s100
+997,F01_a4_s100_v02.wav,c’est vrai allons prendre un café,s100
+998,M04_a4_s100_v02.wav,c’est vrai allons prendre un café,s100
+999,M11_a3_s100_v05.wav,c’est vrai allons prendre un café,s100
